@@ -1,0 +1,10 @@
+my ddoc
+
+git config --global user.name  “Akshiv20”
+git config --global user.email “queenprince20@gmail.com”
+git config --global core.editor vim
+git config --global core.compression 2
+git config --global diff.tool vim.diff
+
+
+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
